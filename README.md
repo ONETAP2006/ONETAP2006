@@ -77,6 +77,73 @@ https://github.com/ONETAP2006/ONETAP2006.git
 
 </body>
 </html><!--
-**ONETAP2006/ONETAP2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Харчування</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 
+<header>
+  <h1>Правильне Харчування</h1>
+</header>
 
+<nav>
+  <a href="index.html">Головна</a>
+  <a href="health.html">Про здоров’я</a>
+  <a href="nutrition.html">Харчування</a>
+  <a href="activity.html">Активність</a>
+  <a href="tips.html">Поради</a>
+  <a href="contacts.html">Контакти</a>
+</nav>
+
+<main>
+  <section>
+    <h2>Основи здорового харчування</h2>
+    <p>Баланс білків, жирів, вуглеводів, вітамінів і мінералів – основа вашого раціону.</p>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025 Медицина та ЗСЖ</p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Контакти</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Контакти</h1>
+</header>
+
+<nav>
+  <a href="index.html">Головна</a>
+  <a href="health.html">Про здоров’я</a>
+  <a href="nutrition.html">Харчування</a>
+  <a href="activity.html">Активність</a>
+  <a href="tips.html">Поради</a>
+  <a href="contacts.html">Контакти</a>
+</nav>
+
+<main>
+  <section>
+    <h2>Зв’яжіться з нами</h2>
+    <p>Email: info@zszh.ua<br>Телефон: +380 (50) 123-45-67</p>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025 Медицина та ЗСЖ</p>
+</footer>
+
+</body>
+</html>
